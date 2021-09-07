@@ -31,3 +31,13 @@ Here are some ideas to get you started:
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
 </p>
+
+## Things I'm Learning
+<p>
+[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=02569B" alt="TypeScript logo" title="TypeScript" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_now_anchor]
+&nbsp;
+</p>
