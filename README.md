@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on anything.😄
 - 🤔 I’m looking for help with API structuring. 
 - 💬 Ask me about anthing. 😊
-- 📫 How to reach me: <a href="mailto:babuizhan1234@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+- 📫 How to reach me: <a href="mailto:babuizhan1234@gmail.com">Gmail</a>
 
 ## Tech Stack
 
