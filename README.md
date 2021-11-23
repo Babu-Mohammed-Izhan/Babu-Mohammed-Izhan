@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Backend Development
 - 🌱 I’m currently learning Express and Databases
-- 👯 I’m looking to collaborate on anything.😄
+- 👯 I’m looking to collaborate on Full Stack Web Development.
 - 🤔 I’m looking for help with API structuring. 
 - 💬 Ask me about anthing. 😊
 - 📫 How to reach me: <a href="mailto:babuizhan1234@gmail.com">Gmail</a>
