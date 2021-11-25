@@ -50,3 +50,8 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 
+# Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Babu-Mohammed-Izhan&layout=compact)
+
+
