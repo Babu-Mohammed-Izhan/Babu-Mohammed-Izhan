@@ -46,6 +46,6 @@
 
 # Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Babu-Mohammed-Izhan&layout=compact)
+![Top Langs](https://github.com/Babu-Mohammed-Izhan/github-stats/blob/master/generated/languages.svg)
 
 
