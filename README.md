@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on FullStack Development.
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning DotNet.
 - 👯 I’m looking to collaborate on Full Stack Web Development.
 - 🤔 I’m looking for help with API structuring. 
 - 💬 Ask me about anthing. 😊
@@ -33,7 +33,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Things I'm Learning
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DotNet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
