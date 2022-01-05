@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on FullStack Development.
-- 🌱 I’m currently learning DotNet.
+- 🌱 I’m currently learning DSA.
 - 👯 I’m looking to collaborate on Full Stack Web Development.
 - 🤔 I’m looking for help with API structuring. 
 - 💬 Ask me about anthing. 😊
@@ -40,7 +40,6 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## Things I'm Learning
-![DotNet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
