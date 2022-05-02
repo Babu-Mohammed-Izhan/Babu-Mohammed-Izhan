@@ -53,6 +53,8 @@
 
 # Stats
 
+![Overview](https://github.com/Babu-Mohammed-Izhan/github-stats/blob/master/generated/overview.svg)
+
 ![Top Langs](https://github.com/Babu-Mohammed-Izhan/github-stats/blob/master/generated/languages.svg)
 
 
