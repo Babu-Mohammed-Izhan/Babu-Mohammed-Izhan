@@ -51,8 +51,10 @@
 
 # Stats
 
-![Overview](https://github.com/Babu-Mohammed-Izhan/github-stats/blob/master/generated/overview.svg)
+![Overview](https://raw.githubusercontent.com/Babu-Mohammed-Izhan/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Overview](https://raw.githubusercontent.com/Babu-Mohammed-Izhan/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-![Top Langs](https://github.com/Babu-Mohammed-Izhan/github-stats/blob/master/generated/languages.svg)
+![Top Langs](https://raw.githubusercontent.com/Babu-Mohammed-Izhan/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Top Langs](https://raw.githubusercontent.com/Babu-Mohammed-Izhan/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
